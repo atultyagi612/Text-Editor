@@ -1,4 +1,11 @@
 # Text-Editor
 Text Editor using Tkinter 
 
-![](demo.gif)
+# Requirement 
+
+Tkinter
+
+## Demo 
+
+
+![](DEMO.gif)
